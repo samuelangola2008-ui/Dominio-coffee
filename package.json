@@ -1,0 +1,12 @@
+{
+  "name": "dominio-y-coffee",
+  "version": "1.0.0",
+  "description": "Servidor web para Dominio & Coffee (e-commerce de domicilios)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "ISC"
+}
